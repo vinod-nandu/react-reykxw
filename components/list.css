@@ -1,0 +1,12 @@
+.selected {
+    background-color: #369;
+    color: #222;
+    border-color: solid 1px red;
+}
+
+.list
+{
+font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+list-style-type: upper-roman;
+width:60px;
+}
